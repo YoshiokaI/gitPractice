@@ -1,4 +1,3 @@
-#psemi
 Practice
 practicing
 
